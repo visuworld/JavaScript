@@ -15,3 +15,8 @@ let myfun = function(){
 }
 
 console.log(typeof id); // check data-type
+
+// -----------------------------------------
+
+// memory location
+// Stack memory(primitive) , Heap memory(reference)
